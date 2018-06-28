@@ -18,7 +18,10 @@
         "source": "https://github.com/chopins/output"
     },
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "toknot/input" :"*",
+        "toknot/Misc":"*",
+        "toknot/digital" :"*"
     },
     "autoload" : {
         "psr-4": {

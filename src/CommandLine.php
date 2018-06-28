@@ -12,7 +12,7 @@ namespace Toknot\Output;
 
 use Toknot\Output\Printer;
 use Toknot\Input\CommandInput;
-use Toknot\Misc\{Integer,Boolean,Char,Double};
+use Toknot\Misc\{Integer,Boolean,Char};
 use Toknot\Digital\Number;
 
 class CommandLine {
