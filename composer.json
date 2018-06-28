@@ -17,11 +17,12 @@
         "issues": "https://github.com/chopins/output/issues?state=open",
         "source": "https://github.com/chopins/output"
     },
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0",
-        "toknot/input" :"@dev",
-        "toknot/misc":"@dev",
-        "toknot/digital" :"@dev"
+        "toknot/input" :"*",
+        "toknot/misc":"*",
+        "toknot/digital" :"*"
     },
     "autoload" : {
         "psr-4": {
