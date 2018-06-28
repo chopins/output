@@ -19,9 +19,9 @@
     },
     "require": {
         "php": ">=7.0.0",
-        "toknot/input" :"*",
-        "toknot/Misc":"*",
-        "toknot/digital" :"*"
+        "toknot/input" :"@dev",
+        "toknot/misc":"@dev",
+        "toknot/digital" :"@dev"
     },
     "autoload" : {
         "psr-4": {
